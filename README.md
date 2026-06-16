@@ -1,6 +1,6 @@
-# Ontario Data Preprocessing — Phase 1
+# Digital Surveillance Dashboard
 
-React frontend + FastAPI backend for fuzzy Ontario location matching and weekly aggregation.
+React frontend + FastAPI backend for Ontario epidemiological data preprocessing, location matching, weekly aggregation, and feature relevance analysis.
 
 ## Project structure
 ```
@@ -32,15 +32,18 @@ npm run dev
 
 Open: http://127.0.0.1:5173
 
+## Quick start (Windows)
+```powershell
+F:\RSV\project\start-backend.bat
+F:\RSV\project\start-frontend.bat
+```
+
 ## Test with your wastewater file
 ```powershell
 cd F:\RSV\project\backend
 .\.venv\Scripts\activate
 python test_wastewater.py
 ```
-
-Input file:
-`F:\RSV\wastewater_aggregate(in).csv`
 
 ## API example
 ```powershell
