@@ -1,0 +1,114 @@
+[
+  {
+    "city": "Toronto",
+    "region": "Greater Toronto Area",
+    "latitude": 43.6532,
+    "longitude": -79.3832,
+    "aliases": ["toronto", "gta", "greater toronto area", "city of toronto", "t.o.", "to"]
+  },
+  {
+    "city": "Ottawa",
+    "region": "Eastern Ontario",
+    "latitude": 45.4215,
+    "longitude": -75.6972,
+    "aliases": ["ottawa", "ottawa-gatineau", "national capital region"]
+  },
+  {
+    "city": "Mississauga",
+    "region": "Peel Region",
+    "latitude": 43.589,
+    "longitude": -79.6441,
+    "aliases": ["mississauga", "sauga", "city of mississauga", "peel region", "peel"]
+  },
+  {
+    "city": "Brampton",
+    "region": "Peel Region",
+    "latitude": 43.7315,
+    "longitude": -79.7624,
+    "aliases": ["brampton", "city of brampton"]
+  },
+  {
+    "city": "Hamilton",
+    "region": "Hamilton Region",
+    "latitude": 43.2557,
+    "longitude": -79.8711,
+    "aliases": ["hamilton", "city of hamilton", "hamilton-wentworth"]
+  },
+  {
+    "city": "London",
+    "region": "Southwestern Ontario",
+    "latitude": 42.9849,
+    "longitude": -81.2453,
+    "aliases": ["london", "city of london", "london on"]
+  },
+  {
+    "city": "Kitchener",
+    "region": "Waterloo Region",
+    "latitude": 43.4516,
+    "longitude": -80.4925,
+    "aliases": ["kitchener", "kitchener-waterloo", "kw", "k-w", "waterloo region"]
+  },
+  {
+    "city": "Windsor",
+    "region": "Southwestern Ontario",
+    "latitude": 42.3149,
+    "longitude": -83.0364,
+    "aliases": ["windsor", "city of windsor"]
+  },
+  {
+    "city": "St. Catharines",
+    "region": "Niagara Region",
+    "latitude": 43.1594,
+    "longitude": -79.2469,
+    "aliases": ["st. catharines", "st catharines", "st cath", "niagara", "niagara region"]
+  },
+  {
+    "city": "Oshawa",
+    "region": "Durham Region",
+    "latitude": 43.8971,
+    "longitude": -78.8658,
+    "aliases": ["oshawa", "durham", "durham region"]
+  },
+  {
+    "city": "Barrie",
+    "region": "Simcoe County",
+    "latitude": 44.3894,
+    "longitude": -79.6903,
+    "aliases": ["barrie", "simcoe", "simcoe county"]
+  },
+  {
+    "city": "Guelph",
+    "region": "Wellington County",
+    "latitude": 43.5448,
+    "longitude": -80.2482,
+    "aliases": ["guelph", "wellington", "wellington county"]
+  },
+  {
+    "city": "Kingston",
+    "region": "Eastern Ontario",
+    "latitude": 44.2312,
+    "longitude": -76.486,
+    "aliases": ["kingston", "city of kingston"]
+  },
+  {
+    "city": "Sudbury",
+    "region": "Northern Ontario",
+    "latitude": 46.4917,
+    "longitude": -80.993,
+    "aliases": ["sudbury", "greater sudbury", "city of greater sudbury"]
+  },
+  {
+    "city": "Thunder Bay",
+    "region": "Northwestern Ontario",
+    "latitude": 48.3809,
+    "longitude": -89.2477,
+    "aliases": ["thunder bay", "tbay", "t-bay"]
+  },
+  {
+    "city": "North Bay",
+    "region": "Northeastern Ontario",
+    "latitude": 46.3091,
+    "longitude": -79.4608,
+    "aliases": ["north bay", "northbay"]
+  }
+]
